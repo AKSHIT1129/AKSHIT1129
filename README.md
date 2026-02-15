@@ -1,7 +1,11 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNTg4MjYsIm5iZiI6MTc3MTE1ODUyNiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE1VDEyMjg0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyYmMzNzM2NmI1MDA2NmE0MzJlN2RiODc5OWUwMzYwNDU1OGI5ZGY4MDdhOWQ2N2YwMzhhNTQ1ZWQ1ZTU2MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yz9OWpXx9WYe4TYXlVoyMiKPM6Y1MrE5JPggl4EVOY8)](https://rishavchanda.io)
-<h1 align="center">Hi there👋, I'm AKSHIT - aka [MALVETH]
-<h3 align="center">I am a B.Tech 2nd year student in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology, with a strong foundation in machine learning, data structures, and software development. I focus on building intelligent systems and data-driven applications using modern AI technologies. My goal is to design scalable, efficient, and impactful solutions that solve real-world problems. I am constantly improving my skills by working on projects, exploring new tools, and applying advanced concepts in AI and automation.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/AKSHIT1129/gif/blob/main/%F0%9F%AB%B5%F0%9F%98%AD%E3%80%8CIRIS%20OUT%E3%80%8D%E3%83%AC%E3%82%BC%E3%83%80%E3%83%B3%E3%82%B9%20%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3%20RezeDance%20ChainsawMan%20IRISOUT%20-%20Kenshi%20Yonezu%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20(1080p%2C%20h264).gif")
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNTg4MjYsIm5iZiI6MTc3MTE1ODUyNiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE1VDEyMjg0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyYmMzNzM2NmI1MDA2NmE0MzJlN2RiODc5OWUwMzYwNDU1OGI5ZGY4MDdhOWQ2N2YwMzhhNTQ1ZWQ1ZTU2MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yz9OWpXx9WYe4TYXlVoyMiKPM6Y1MrE5JPggl4EVOY8" alt="MasterHead" />
+  </a>
+</p>
+
+ <h1 align="center">Hi there👋, I'm AKSHIT - aka [MALVETH] Currently pursuing a B.Tech degree in Artificial Intelligence and Machine Learning from SRM IST, I am passionate about current and upcoming technology innovation . My goal is to leverage my skills to...</h3>
+<img align="right" alt="Coding" width="400"  src="https://github.com/AKSHIT1129/gif/blob/main/%F0%9F%AB%B5%F0%9F%98%AD%E3%80%8CIRIS%20OUT%E3%80%8D%E3%83%AC%E3%82%BC%E3%83%80%E3%83%B3%E3%82%B9%20%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3%20RezeDance%20ChainsawMan%20IRISOUT%20-%20Kenshi%20Yonezu%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20(1080p%2C%20h264).gif")
 
 
 
@@ -13,7 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/comfortsilenc3)
 [![LeetCode](https://img.shields.io/badge/-LeetCode%20Profile%20%E2%86%92-gray.svg?colorB=ffa116&style=for-the-badge)](https://leetcode.com/u/bx7x3t3mOl/)
 
-## I'm a Student, Learner, and Gamer...
+ I'm a Student, Learner, and Gamer...
 
 - 🔭 I’m currently learning everything 🤣
 - 💬 Ask me about **Unreal Engine, APP dev and AI models**

@@ -16,8 +16,9 @@ src="https://github.com/AKSHIT1129/gif/blob/main/%F0%9F%AB%B5%F0%9F%98%AD%E3%80%
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/comfortsilenc3)
-[![LeetCode](https://img.shields.io/badge/-LeetCode%20Profile%20%E2%86%92-gray.svg?colorB=ffa116&style=for-the-badge)](https://leetcode.com/u/bx7x3t3mOl/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/comfortsilenc3?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/comfortsilenc3)
+[![LeetCode](https://img.shields.io/badge/-LeetCode%20Profile%20%E2%86%92-gray.svg?colorB=ffa116&style=for-the-badge)](https://leetcode.com/u/bx7x3t3mOl/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1129&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1129" /> </p>
+
 
  I'm a Student, Learner, and Gamer...
 

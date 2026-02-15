@@ -31,7 +31,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/%F0%9F%AB%B5%F0%9F%98%AD%E3%80%
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/comfortsilenc3" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="comfortsilenc3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshit-singh-gusain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshit-singh-gusain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshit-singh-gusain-7ab993251" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshit-singh-gusain" height="30" width="40" /></a>
 <a href="https://instagram.com/_akshit_gusain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshit_gusain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bx7x3t3mol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bx7x3t3mol" height="30" width="40" /></a>
 </p>

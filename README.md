@@ -4,8 +4,10 @@
   </a>
 </p>
 
- <h1 align="center">Hi there👋, I'm AKSHIT - aka [MALVETH].
-Currently pursuing a B.Tech degree in Artificial Intelligence and Machine Learning from SRM IST, I am passionate about current and upcoming technology innovation . My goal is to leverage my skills to...</h3>
+<h1 align="center">
+  <span style="color:red;"><b>Hi there👋, I'm AKSHIT - aka [MALVETH]<br><br>
+  Currently pursuing a B.Tech degree in Artificial Intelligence and Machine Learning from SRM IST, I am passionate about current and upcoming technology innovation. My goal is to leverage my skills to...
+</h1>
 <img align="right" alt="Coding" width="300" height="800"
 src="https://github.com/AKSHIT1129/gif/blob/main/%F0%9F%AB%B5%F0%9F%98%AD%E3%80%8CIRIS%20OUT%E3%80%8D%E3%83%AC%E3%82%BC%E3%83%80%E3%83%B3%E3%82%B9%20%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3%20RezeDance%20ChainsawMan%20IRISOUT%20-%20Kenshi%20Yonezu%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20(1080p%2C%20h264).gif")
 
@@ -20,7 +22,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/%F0%9F%AB%B5%F0%9F%98%AD%E3%80%
 [![LeetCode](https://img.shields.io/badge/-LeetCode%20Profile%20%E2%86%92-gray.svg?colorB=ffa116&style=for-the-badge)](https://leetcode.com/u/bx7x3t3mOl/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1129&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1129" /> </p>
 
 
- I'm a Student, Learner, and Gamer...
+ I'm a Student, Learner, and Gamer
 
 - 🔭 I’m currently learning everything 🤣
 - 💬 Ask me about **Unreal Engine, APP dev and AI models**

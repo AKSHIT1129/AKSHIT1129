@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://rishavchanda.io">
     <img src="https://github.com/AKSHIT1129/gif/blob/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" />
   </a>
 </p>

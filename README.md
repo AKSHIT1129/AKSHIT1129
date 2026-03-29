@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:red;"><b>Hi there👋, I'm AKSHIT<br><br>
+  <span style="color:red;"><b>Hi there..., I'm AKSHIT<br><br>
   Currently pursuing a B.Tech degree in Artificial Intelligence and Machine Learning from SRM IST, I am passionate about current and upcoming technology innovation. My goal is to leverage my skills to...
 </h1>
 <img align="right" alt="Coding" width="300" height="800"

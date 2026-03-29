@@ -23,11 +23,11 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 
  I'm a Student, Learner, and Gamer
 
-- 🔭 I’m currently learning everything 🤣
-- 💬 Ask me about **Unreal Engine, APP dev and AI models**
-- 👯 I’m looking to collaborate with other creators
-- 🥅 2026 Goals: Just finish and learn whatever you are doing!!!
-- ⚡ Fun fact: I love to draw
+-  I’m currently learning everything 🤣
+-  Ask me about **Unreal Engine, APP dev and AI models**
+-  I’m looking to collaborate with other creators
+-  2026 Goals: Just finish and learn whatever you are doing!!!
+-  Fun fact: I love to draw
 
 
 <h3 align="left">Let's Connect:</h3>

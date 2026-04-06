@@ -24,7 +24,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 - Proficient in **Unreal Engine, Application Development**, and AI Model concepts
 - 2026 Goals: Focus on consistent learning and successfully completing ongoing projects 
 
-               A Gamer mindset with a focus on problem-solving and creativity
+          A Gamer mindset with a focus on problem-solving and creativity
 
 
 <h3 align="left">Let's Connect:</h3>

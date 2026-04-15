@@ -22,8 +22,8 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 - Actively learning and building in Machine Learning
 - Proficient in **Unreal Engine, Application Development**, and AI Model concepts
 - 2026 Goals: Focus on consistent learning and successfully completing ongoing projects 
-
-              A problem-solver with a gamer mindset and creative approach
+ 
+                A problem-solver with a gamer mindset and creative approach
 
 
 <h3 align="left">Let's Connect:</h3>
@@ -43,7 +43,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 </a>
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 

@@ -19,9 +19,9 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-Akshit%20Singh%20Gusain-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akshit-singh-gusain-7ab993251/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode%20Profile%20%E2%86%92-gray.svg?colorB=ffa116&style=for-the-badge)](https://leetcode.com/u/bx7x3t3mOl/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1129&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1129" /> </p>
 
-- Actively learning and building in Machine Learning
-- Proficient in **Unreal Engine, Application Development**, and AI Model concepts
-- 2026 Goals: Focus on consistent learning and successfully completing ongoing projects 
+- Exploring Machine Learning through hands-on projects and continuous learning
+- Interested in AI/ML concepts, application development and Unreal Engine
+- 2026 Goal: Build consistently, improve technically and successfully complete ongoing projects
  
                   As long as I'm alive I have infinite chances
        

@@ -21,7 +21,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 
 - Exploring Machine Learning through hands-on projects and continuous learning
 - Interested in AI/ML concepts, application development and Unreal Engine
-- 2026 Goal: Build consistently, improve technically and successfully complete ongoing projects
+- 2026 Goals: Build consistently, improve technically and successfully complete ongoing projects
  
                   As long as I'm alive I have infinite chances
        

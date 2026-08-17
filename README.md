@@ -16,7 +16,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 
 
 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-Akshit%20Singh%20Gusain-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akshit-singh-gusain-7ab993251/)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-Akshit%20Singh%20Gusain-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akshit-gusain-889812423/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode%20Profile%20%E2%86%92-gray.svg?colorB=ffa116&style=for-the-badge)](https://leetcode.com/u/bx7x3t3mOl/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1129&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1129" /> </p>
 
 - Exploring Machine Learning through hands-on projects and continuous learning

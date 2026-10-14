@@ -30,7 +30,7 @@ src="https://github.com/AKSHIT1129/gif/blob/main/Video%20Project%205%201%201.gif
 <h3 align="left">Let's Connect:</h3>
 
 <p align="left">
-<a href="https://x.com/comfortsilenc3" target="_blank">
+<a href="https://x.com/no_user_name_0" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="35" style="margin-right:10px;"/>
 </a>
 <a href="https://www.linkedin.com/in/akshit-singh-gusain-7ab993251" target="_blank">
